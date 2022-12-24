@@ -19,7 +19,7 @@
 * [Arduino IDE](https://www.arduino.cc/en/software)
 
 ### Making the 4 x 4 template for the layers
-* Draw a 4 x 4 grid on the plywood of 2.5 cm.
+* Draw a 4 x 4 grid of 2.5 cm on the plywood.
 * Drill holes of 3-3.5mm on each point of interection of the grid
 * Test that led lights fit properly as seen on the image below
 * Template is ready
