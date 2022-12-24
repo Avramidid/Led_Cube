@@ -26,7 +26,8 @@
 * Using the grid make 4 layers of 4 x 4 LED lights, one for each level of our cube soldering the negative poles of the LED, thus short circuiting the negative poles of LED lights for each layer
  <img width="194" alt="image" src="https://user-images.githubusercontent.com/62250029/209442769-39f77f45-b018-4efc-8e19-dcfe463ecd26.png">
 
-### 
+### Making the cube
+* Allign the 4 levels of 4 x 4 layers made as mentioned above and connect the positive poles of each LED that belong on same column
 
 <img width="214" alt="image" src="https://user-images.githubusercontent.com/62250029/209443094-43c79033-e163-4f86-91e4-943aa20b3147.png">
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/62250029/209442673-a133c5c6-120b-4468-bc7f-21e467e6fc11.png">
