@@ -27,7 +27,8 @@
  <img width="194" alt="image" src="https://user-images.githubusercontent.com/62250029/209442769-39f77f45-b018-4efc-8e19-dcfe463ecd26.png">
 
 ### Making the cube
-* Allign the 4 levels of 4 x 4 layers made as mentioned above and connect the positive poles of each LED that belong on same column
+* Allign the 4 levels of 4 x 4 layers made as mentioned above and solder the positive poles of each LED that belong on same column thus short circuiting the positive poles of LED lights for each column. Make sure that each layers has a distance of 2.5cm from the previous one, so our construction is a cube
+
 
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/62250029/209443594-8b33958f-d0c3-498a-8c53-8ab564025ab4.png">
 <img width="228" alt="image" src="https://user-images.githubusercontent.com/62250029/209442673-a133c5c6-120b-4468-bc7f-21e467e6fc11.png">
