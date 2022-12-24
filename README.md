@@ -23,7 +23,7 @@
 * Drill holes of 3-3.5mm on each point of interection of the grid
 * Test that led lights fit properly as seen on the image below
 * Template is ready
-* Using the grid make 4 layers of 4 x 4 LED lights, one for each level of our cube
+* Using the grid make 4 layers of 4 x 4 LED lights, one for each level of our cube soldering the negative poles of the LED, thus short circuiting the negative poles of LED lights for each layer
  <img width="194" alt="image" src="https://user-images.githubusercontent.com/62250029/209442769-39f77f45-b018-4efc-8e19-dcfe463ecd26.png">
 
 ### 
